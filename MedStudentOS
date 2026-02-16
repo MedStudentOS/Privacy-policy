@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy | MedStudent OS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p><strong>Effective date:</strong> 2026-01-25</p>
+
+<hr>
+
+<h2>1. Introduction</h2>
+
+<p>Welcome to <strong>MedStudent OS</strong>.</p>
+
+<p>MedStudent OS ("we", "us", or "our") operates the AI-powered service available at:</p>
+
+<p>
+<a href="https://chatgpt.com/g/g-691aec14516481918d3ad46fc2ff170f-medstudent-os-2-0">
+https://chatgpt.com/g/g-691aec14516481918d3ad46fc2ff170f-medstudent-os-2-0
+</a>
+</p>
+
+<p>(the "Service").</p>
+
+<p>This Privacy Policy explains how information is accessed, used, and safeguarded when you use MedStudent OS. By using the Service, you agree to the collection and use of information in accordance with this policy.</p>
+
+<p>MedStudent OS is built using OpenAI’s ChatGPT platform and integrates with Google Calendar via OAuth to help users plan habits, tasks, and schedules.</p>
+
+<hr>
+
+<h2>2. Definitions</h2>
+
+<ul>
+  <li><strong>Service</strong> – the MedStudent OS AI assistant hosted on ChatGPT</li>
+  <li><strong>Personal Data</strong> – information that can identify an individual</li>
+  <li><strong>Usage Data</strong> – data generated from interaction with the Service</li>
+  <li><strong>User</strong> – the individual using MedStudent OS</li>
+</ul>
+
+<hr>
+
+<h2>3. Information We Collect</h2>
+
+<h3>3.1 Personal Data</h3>
+
+<p>MedStudent OS does <strong>not</strong> require users to create a separate account.</p>
+
+<p>However, depending on how you use the Service, the following data may be accessed or processed:</p>
+
+<ul>
+  <li>Email address (via your ChatGPT or Google account)</li>
+  <li>Name or nickname you voluntarily provide in conversation</li>
+  <li>Calendar event details that you explicitly ask the Service to create, modify, or delete</li>
+  <li>Text you voluntarily enter during conversations (e.g. goals, reflections)</li>
+</ul>
+
+<p>We do <strong>not</strong> collect:</p>
+
+<ul>
+  <li>Postal addresses</li>
+  <li>Phone numbers</li>
+  <li>Government IDs</li>
+  <li>Financial information</li>
+  <li>Advertising identifiers</li>
+</ul>
+
+<h3>3.2 Google Calendar Data (OAuth Integration)</h3>
+
+<p>MedStudent OS integrates with <strong>Google Calendar</strong> using OAuth authentication.</p>
+
+<p>When you choose to connect Google Calendar:</p>
+
+<ul>
+  <li>Access is granted <strong>only after your explicit consent</strong></li>
+  <li>The Service can create, update, move, or delete calendar events <strong>only at your request</strong></li>
+  <li>Calendar data is <strong>not stored externally</strong> by MedStudent OS</li>
+  <li>Access is used solely to deliver the requested scheduling features</li>
+</ul>
+
+<p>You can revoke access at any time via:</p>
+
+<p><a href="https://myaccount.google.com/permissions">https://myaccount.google.com/permissions</a></p>
+
+<h3>3.3 Usage Data</h3>
+
+<p>Limited usage data may be processed automatically by the underlying platforms (OpenAI and Google) to ensure performance, security, and reliability.</p>
+
+<p>MedStudent OS itself does not operate independent tracking, analytics, or advertising systems.</p>
+
+<hr>
+
+<h2>4. GPT Memory and AI Processing</h2>
+
+<p>MedStudent OS may use ChatGPT memory features to store summaries or preferences to improve your experience (e.g. remembering your goals or routines).</p>
+
+<p>This data:</p>
+
+<ul>
+  <li>Is stored within the ChatGPT platform</li>
+  <li>Is not accessible to other users</li>
+  <li>Is not exported or sold</li>
+  <li>Can be cleared by the user through ChatGPT controls</li>
+</ul>
+
+<hr>
+
+<h2>5. How We Use Data</h2>
+
+<p>We use accessed data strictly to:</p>
+
+<ul>
+  <li>Provide and operate MedStudent OS</li>
+  <li>Create and manage calendar events you request</li>
+  <li>Improve user experience and continuity</li>
+  <li>Respond to support or feedback requests</li>
+  <li>Ensure system security and reliability</li>
+</ul>
+
+<p>We do <strong>not</strong> use your data for:</p>
+
+<ul>
+  <li>Advertising</li>
+  <li>Profiling</li>
+  <li>Sale to third parties</li>
+  <li>Automated decision-making outside your direct requests</li>
+</ul>
+
+<hr>
+
+<h2>6. Data Retention</h2>
+
+<ul>
+  <li>Google Calendar data is accessed <strong>only at runtime</strong> and is not stored by MedStudent OS</li>
+  <li>Conversation data is handled according to OpenAI’s data policies</li>
+  <li>You may revoke access or stop using the Service at any time</li>
+</ul>
+
+<hr>
+
+<h2>7. Data Sharing and Disclosure</h2>
+
+<p>We do <strong>not</strong> sell, rent, or trade personal data.</p>
+
+<p>Data may be processed by:</p>
+
+<ul>
+  <li><strong>OpenAI</strong> (ChatGPT platform)</li>
+  <li><strong>Google</strong> (Calendar API)</li>
+</ul>
+
+<p>Only as necessary to deliver the Service.</p>
+
+<p>Data may be disclosed if required by law or valid legal request.</p>
+
+<hr>
+
+<h2>8. International Data Transfers</h2>
+
+<p>If you access the Service from outside the United Kingdom, your data may be processed in jurisdictions where OpenAI or Google operate. Appropriate safeguards are applied in accordance with applicable data protection laws.</p>
+
+<hr>
+
+<h2>9. Security</h2>
+
+<p>We rely on the security infrastructure of OpenAI and Google to protect your data. While no system is completely secure, reasonable safeguards are used to prevent unauthorized access.</p>
+
+<hr>
+
+<h2>10. Your Data Protection Rights (GDPR)</h2>
+
+<p>If you are located in the UK, EU, or EEA, you have the right to:</p>
+
+<ul>
+  <li>Access your personal data</li>
+  <li>Request correction or deletion</li>
+  <li>Object to processing</li>
+  <li>Request data portability</li>
+  <li>Withdraw consent at any time</li>
+</ul>
+
+<p>Requests can be made by emailing:</p>
+
+<p><a href="mailto:notionformedics@gmail.com">notionformedics@gmail.com</a></p>
+
+<hr>
+
+<h2>11. California Privacy Rights (CCPA / CPRA)</h2>
+
+<p>If you are a California resident, you have the right to:</p>
+
+<ul>
+  <li>Know what personal data is processed</li>
+  <li>Request deletion of your data</li>
+  <li>Opt out of any sale of personal data (we do not sell data)</li>
+</ul>
+
+<p>Requests can be made via:</p>
+
+<p><a href="mailto:notionformedics@gmail.com">notionformedics@gmail.com</a></p>
+
+<hr>
+
+<h2>12. Children’s Privacy</h2>
+
+<p>MedStudent OS is not intended for individuals under the age of 18. We do not knowingly collect personal data from children.</p>
+
+<hr>
+
+<h2>13. Changes to This Privacy Policy</h2>
+
+<p>We may update this Privacy Policy from time to time. Updates will be reflected by revising the effective date at the top of this page.</p>
+
+<hr>
+
+<h2>14. Contact Us</h2>
+
+<p>If you have any questions about this Privacy Policy or data usage, please contact:</p>
+
+<p>Email: <a href="mailto:notionformedics@gmail.com">notionformedics@gmail.com</a></p>
+
+</body>
+</html>
